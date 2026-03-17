@@ -1,0 +1,31 @@
+{
+  "name": "bm-o3-landing",
+  "version": "1.0.0",
+  "description": "Benchmark: Landing page pre nový mobilný fitness tracker",
+  "main": "vite.config.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JanciNeviemProste/bm-o3-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JanciNeviemProste/bm-o3-landing/issues"
+  },
+  "homepage": "https://github.com/JanciNeviemProste/bm-o3-landing#readme",
+  "dependencies": {
+    "@tailwindcss/vite": "^4.2.1",
+    "@vitejs/plugin-react": "^6.0.1",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "tailwindcss": "^4.2.1",
+    "vite": "^8.0.0"
+  }
+}
